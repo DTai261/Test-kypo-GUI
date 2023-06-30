@@ -9,7 +9,7 @@ hosts:
 
   - name: client
     base_box: 
-      image: ubuntu-focal-x86_64
+      image: xubuntu-18.04
       man_user: ubuntu
     flavor: standard.small
 
